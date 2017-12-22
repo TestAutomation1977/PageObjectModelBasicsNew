@@ -7,7 +7,7 @@ public class TestConfig{
 		
 	public static String from = "arunyerram79@gmail.com";
 	public static String password = "Bnnb76))";
-	public static String[] to ={"arunyerram79@gmail.com","maddiaruna6@gmail.com","cmaddigapu@yahoo.com", "anumuladineshreddy@gmail.com"};
+	public static String[] to ={"arunyerram79@gmail.com","anumuladineshreddy@gmail.com"};
 	public static String subject = "PPM Basics Project Extent Report";
 	
 	/*public static String messageBody ="TestMessage";
