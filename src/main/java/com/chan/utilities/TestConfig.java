@@ -2,7 +2,7 @@ package com.chan.utilities;
 public class TestConfig{
 
 
-	//This comment added for git 
+	
 	public static String server="smtp.gmail.com";
 		
 	public static String from = "arunyerram79@gmail.com";
